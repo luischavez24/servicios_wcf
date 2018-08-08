@@ -1,0 +1,10 @@
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\bin\Guis.Ejemplo.ServiceWCF.Svc.dll.config
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\bin\Guis.Ejemplo.ServiceWCF.Svc.dll
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\bin\Guis.Ejemplo.ServiceWCF.Svc.pdb
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\bin\Guis.Ejemplo.ServiciosWCF.Interface.dll
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\bin\Guis.Ejemplo.ServiciosWCF.Interface.pdb
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\obj\Debug\Guis.Ejemplo.ServiceWCF.Svc.csprojAssemblyReference.cache
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\obj\Debug\Guis.Ejemplo.ServiceWCF.Svc.csproj.CoreCompileInputs.cache
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\obj\Debug\Guis.Ejemplo.ServiceWCF.Svc.csproj.CopyComplete
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\obj\Debug\Guis.Ejemplo.ServiceWCF.Svc.dll
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiceWCF.Svc\obj\Debug\Guis.Ejemplo.ServiceWCF.Svc.pdb

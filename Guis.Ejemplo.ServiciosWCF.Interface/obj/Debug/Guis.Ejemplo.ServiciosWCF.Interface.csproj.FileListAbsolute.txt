@@ -1,0 +1,6 @@
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiciosWCF.Interface\bin\Debug\Guis.Ejemplo.ServiciosWCF.Interface.dll
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiciosWCF.Interface\bin\Debug\Guis.Ejemplo.ServiciosWCF.Interface.pdb
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiciosWCF.Interface\obj\Debug\Guis.Ejemplo.ServiciosWCF.Interface.csprojAssemblyReference.cache
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiciosWCF.Interface\obj\Debug\Guis.Ejemplo.ServiciosWCF.Interface.csproj.CoreCompileInputs.cache
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiciosWCF.Interface\obj\Debug\Guis.Ejemplo.ServiciosWCF.Interface.dll
+c:\users\luisricardo\source\repos\Guis.Ejemplo.ServiciosWCF\Guis.Ejemplo.ServiciosWCF.Interface\obj\Debug\Guis.Ejemplo.ServiciosWCF.Interface.pdb

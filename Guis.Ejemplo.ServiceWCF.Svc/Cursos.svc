@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Guis.Ejemplo.ServiceWCF.Svc.Cursos" CodeBehind="Cursos.svc.cs" %>
